@@ -12,6 +12,12 @@ Ensemble using Neural Network
 
 One can download the entire repo and run the .py files.
 
+# Hardware Requirements
+CPUs: 36 <br />  
+RAM: 270GB <br />
+OS: Debian GNU/Linux 9 <br />
+
+# Software Requirements
 Requirements include the following python packages:
 
 sklearn <br />
