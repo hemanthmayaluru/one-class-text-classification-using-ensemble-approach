@@ -2,6 +2,22 @@
 One class text classification using an ensemble of models. 
 This work is done as part of my Master Thesis. 
 
+Traditional classification algorithms work in a closed-world scenario where the training
+data contains all existing classes. In contrast, open set classifiers can handle new input
+that does not belong to any of the classes seen during training. Open set classification
+has been studied intensively in the computer vision domain, primarily in handwriting
+recognition, face recognition, object classification and computer forensics. Here we are
+interested in open set classification in natural language processing in one class document
+classification. We propose a new system based on autoencoder for one class classification
+of documents leveraging the full text. Extending further, we propose a novel ensemble
+based classifier model, a combination of several basic classifiers, to detect if an incoming
+document belongs to the class known from training or an unknown class. We compare
+and evaluate our methods on existing one class classification datasets for NLP - 20
+Newsgroups, reuters and webkb. We also extract and use a new full-text dataset from
+arxiv.org. Our methods significantly outperforms the current state-of-the-art approaches
+for one class document classification.
+
+
 The methods include:
 
 Autoencoder <br /> 
