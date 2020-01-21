@@ -11,7 +11,7 @@ Ensemble using Majority Voting <br />
 Ensemble using Neural Network <br /> 
 
 
-One can download the entire repo and run the .py files.
+One can download the entire repo and run the .py files. Alternately one can run jupyter notebooks as well.
 
 # Hardware Requirements
 
