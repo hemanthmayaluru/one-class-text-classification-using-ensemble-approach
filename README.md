@@ -3,16 +3,18 @@ One class text classification using an ensemble of models.
 This work is done as part of my Master Thesis. 
 
 The methods include:
-Autoencoder
-One Class SVM
-Isolation Forest
-Ensemble using Majority Voting
-Ensemble using Neural Network
+
+Autoencoder <br /> 
+One Class SVM <br /> 
+Isolation Forest <br /> 
+Ensemble using Majority Voting <br /> 
+Ensemble using Neural Network <br /> 
 
 
 One can download the entire repo and run the .py files.
 
 # Hardware Requirements
+
 CPUs: 36 <br />  
 RAM: 270GB <br />
 OS: Debian GNU/Linux 9 <br />
