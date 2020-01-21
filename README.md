@@ -14,12 +14,12 @@ One can download the entire repo and run the .py files.
 
 Requirements include the following python packages:
 
-sklearn
-nltk
-numpy
-tensorflow
-pytorch
-keras
-flair
-sentence_transformers
-pdf-miner
+sklearn <br />
+nltk <br />
+numpy <br />
+tensorflow <br />
+pytorch <br />
+keras <br />
+flair<br />
+sentence_transformers <br />
+pdf-miner <br />
