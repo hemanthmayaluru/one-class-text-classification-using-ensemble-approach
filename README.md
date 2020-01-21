@@ -13,6 +13,12 @@ Ensemble using Neural Network <br />
 
 One can download the entire repo and run the .py files. Alternately one can run jupyter notebooks as well.
 
+Before running the files, download the embeddings from the following URLs:
+
+Universal Sentence Encoder: https://tfhub.dev/google/universal-sentence-encoder/1
+
+Infersent: https://github.com/facebookresearch/InferSent
+
 # Hardware Requirements
 
 CPUs: 36 <br />  
@@ -35,3 +41,5 @@ flair 0.4.4 <br />
 sentence_transformers 0.2.3 <br />
 pdfminer.six 20181108 <br />
 beautifulsoup4 4.7.1
+
+
