@@ -1,5 +1,5 @@
-# One-Class-Text-Classification-using-ensemble-approach
-One class text classification using ensemble of methods. 
+# One-Class-Text-Classification-using-Ensemble-Models
+One class text classification using an ensemble of models. 
 This work is done as part of my Master Thesis. 
 
 The methods include:
